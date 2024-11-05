@@ -4,9 +4,10 @@
 I'm on a journey through the world of Computer Science, building the skills and knowledge to one day unlock the vast world of data as a future data engineer.
 
 ## 🎓 Education
-- **Bachelor of Science in Computer Science**  
-  Currently studying for my Bachelor's degree in Computer Science. My studies focus on developing a strong foundation in computer science principles and programming.
-
+- **Bachelor of Science in Computer Science**
+- New Era University
+- August 2023 - November 2024
+  
 ## 📜 Certifications
 - SQL and Relational Databases 101 (DB0101EN, provided by IBM)  
   [Certificate authenticity link](https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc)
