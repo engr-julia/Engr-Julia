@@ -41,5 +41,5 @@ Currently studying for my Bachelor's degree in Computer Science. My studies focu
 📫 **Reach out** if you’d like to collaborate on any projects or have any exciting opportunities!
 
 ### 🌐 Connect with Me
-- [Facebook: Julia Rodrigo](https://www.facebook.com/JuliaRodrigo)
+- Facebook: [Julia Rodrigo](https://www.facebook.com/JuliaRodrigo)
 - Email: [engr.julia.rt@gmail.com](mailto:engr.julia.rt@gmail.com)
