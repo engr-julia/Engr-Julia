@@ -25,7 +25,7 @@ I'm on a journey through the world of Computer Science, building the skills and 
 - Data Analysis & Visualization
 
 ### Tools & Technologies
-- Git & GitHub
+- GitHub
 
 ### Other Skills
 - Strong problem-solving skills
