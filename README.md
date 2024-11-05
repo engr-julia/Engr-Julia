@@ -53,9 +53,9 @@
 
 <h2>📜 Certifications</h2>
 <ul>
-    <li>SQL and Relational Databases 101 (DB0101EN, provided by IBM)</li> 
+    <li>SQL and Relational Databases 101 (DB0101EN, provided by IBM)  
         <a href="https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc" target="_blank">Certificate authenticity link</a>
-    
+    </li>
 </ul>
 
 <h2>🛠 Skillsets</h2>
