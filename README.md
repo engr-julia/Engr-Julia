@@ -39,6 +39,6 @@ I'm on a journey through the world of Computer Science, building the skills and 
 
 ### 🌐 Connect with Me
 - [Facebook](https://www.facebook.com/JuliaRodrigo)
-- Email: engr.julia.rt@gmail.com
+- [Email]: engr.julia.rt@gmail.com
 
 <!-- Feel free to add any additional information or links to projects and social profiles -->
