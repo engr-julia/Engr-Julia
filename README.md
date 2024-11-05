@@ -1,11 +1,13 @@
-# 👋 Hello, I'm Julia Tamayo Rodrigo! 
+![Welcome to my journey!](https://github.com/your-username/your-repo-name/blob/main/photo_6147724065197113938_y.jpg)
+
+# 👋 Hello, I'm Julia Tamayo Rodrigo!  
 I'm on a journey through the world of Computer Science, building the skills and knowledge to one day unlock the vast world of data as a future data engineer.
 
 ## 🎓 Education
 - **Bachelor of Science in Computer Science**
 - New Era University
 - August 2023 - November 2024
-   
+
   Currently studying for my Bachelor's degree in Computer Science. My studies focus on developing a strong foundation in computer science principles and programming.
 
 ## 📜 Certifications
@@ -39,6 +41,6 @@ I'm on a journey through the world of Computer Science, building the skills and 
 
 ### 🌐 Connect with Me
 - [Facebook](https://www.facebook.com/JuliaRodrigo)
-- [Email]: engr.julia.rt@gmail.com
+- Email: engr.julia.rt@gmail.com
 
 <!-- Feel free to add any additional information or links to projects and social profiles -->
