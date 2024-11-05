@@ -1,4 +1,4 @@
-# 💖👋 **Hello, I'm Julia Tamayo Rodrigo!**
+# 👋 **Hello, I'm Julia Tamayo Rodrigo!**
 
 ![Welcome to my journey!](https://github.com/engr-julia/engr-julia/raw/main/photo_6147724065197113938_y.jpg)
 
