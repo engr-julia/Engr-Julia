@@ -10,21 +10,26 @@
             line-height: 1.6;
             margin: 20px;
         }
+
         h1, h2, h3 {
             color: #333;
         }
+
         a {
             color: #0066cc;
             text-decoration: none;
         }
+
         a:hover {
             text-decoration: underline;
         }
+
         hr {
             border: 0;
             border-top: 1px solid #ccc;
             margin: 20px 0;
         }
+
         .header-image {
             width: 100%; /* Make the image responsive */
             height: auto;
@@ -48,9 +53,9 @@
 
 <h2>📜 Certifications</h2>
 <ul>
-    <li>SQL and Relational Databases 101 (DB0101EN, provided by IBM)  
+    <li>SQL and Relational Databases 101 (DB0101EN, provided by IBM)</li> 
         <a href="https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc" target="_blank">Certificate authenticity link</a>
-    </li>
+    
 </ul>
 
 <h2>🛠 Skillsets</h2>
