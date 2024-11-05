@@ -90,8 +90,8 @@
 
 <h3>🌐 Connect with Me</h3>
 <ul>
-    <li><a href="https://www.facebook.com/JuliaRodrigo" target="_blank">Facebook</a></li>
-    <li>Email: engr.julia.rt@gmail.com</li>
+    <li><a href="https://www.facebook.com/JuliaRodrigo" target="_blank">Facebook: Julia Rodrigo</a></li>
+    <li><a href="https://www.gmail.com/engr.julia.rt@gmail.com" target="_blank">Email: engr.julia.rt@gmail.com</li>
 </ul>
 
 </body>
