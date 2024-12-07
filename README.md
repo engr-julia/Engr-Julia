@@ -18,6 +18,9 @@ Currently studying for my Bachelor's degree in Computer Science. My studies focu
 - Oracle Cloud Infrastructure 2024 Certified Foundations Associate                                                                                                                                       
   [Certificate authenticity link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E5771843277A4CDC454053833BF7DB91936AEBF&fbclid=IwY2xjawG5NElleHRuA2FlbQIxMQABHdYoMvmJcVYEhnogLVy69avubCidmfwRUtmJWRuItaS9VMYF3hCSmqguCg_aem_48grWa2gBazsMF-91MI6NQ)
 
+- Oracle Cloud Infrastructure 2024 Data Foundations Associate 
+[Certificate authenticity link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE&fbclid=IwY2xjawHAn11leHRuA2FlbQIxMQABHWi1NwNFHc_gkFbfCLHtaCuRzliRlMbS1gsSQ-GTPpfQpFEqvp1ZhdtvNg_aem_jiR6MJKsleY0a3ToZ0NwcQ)
+
 ## 🛠 Skillsets
 ### Programming Languages
 - Java
