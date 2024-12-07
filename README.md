@@ -12,14 +12,13 @@ I'm on a journey through the world of Computer Science, building the skills and 
 Currently studying for my Bachelor's degree in Computer Science. My studies focus on developing a strong foundation in computer science principles and programming.
 
 ## 📜 Certifications
-- SQL and Relational Databases 101 (DB0101EN, provided by IBM)  
+- **SQL and Relational Databases 101 (DB0101EN, provided by IBM)**  
   [Certificate authenticity link](https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc)
 
-- Oracle Cloud Infrastructure 2024 Certified Foundations Associate                                                                                                                                       
+- **Oracle Cloud Infrastructure 2024 Certified Foundations Associate**  
   [Certificate authenticity link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E5771843277A4CDC454053833BF7DB91936AEBF&fbclid=IwY2xjawG5NElleHRuA2FlbQIxMQABHdYoMvmJcVYEhnogLVy69avubCidmfwRUtmJWRuItaS9VMYF3hCSmqguCg_aem_48grWa2gBazsMF-91MI6NQ)
 
-
-- Oracle Cloud Infrastructure 2024 Data Foundations Associate
+- **Oracle Cloud Infrastructure 2024 Data Foundations Associate**  
   [Certificate authenticity link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE&fbclid=IwY2xjawHAn11leHRuA2FlbQIxMQABHWi1NwNFHc_gkFbfCLHtaCuRzliRlMbS1gsSQ-GTPpfQpFEqvp1ZhdtvNg_aem_jiR6MJKsleY0a3ToZ0NwcQ)
 
 ## 🛠 Skillsets
