@@ -21,7 +21,7 @@ Currently studying for my Bachelor's degree in Computer Science. My studies focu
 - **Oracle Cloud Infrastructure 2024 Data Foundations Associate**  
   [Certificate authenticity link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE&fbclid=IwY2xjawHAn11leHRuA2FlbQIxMQABHWi1NwNFHc_gkFbfCLHtaCuRzliRlMbS1gsSQ-GTPpfQpFEqvp1ZhdtvNg_aem_jiR6MJKsleY0a3ToZ0NwcQ)
 
-- **Oracle Cloud Infrastructure 2024 Certified Specialist**  
+- **Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate**  
   [Certificate authenticity link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942&fbclid=IwY2xjawHL0ttleHRuA2FlbQIxMQABHeSCHFrvKpzjc6lHXj9jU3ianLmLqO_5JFa0knDTtpFq1ZjInqM1983JaQ_aem_IqmG1y3jzdxEF7OMlTKFBA)
 
 ## 🛠 Skillsets
