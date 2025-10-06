@@ -46,9 +46,27 @@ Currently studying for my Bachelor's degree in Computer Science. My studies focu
 
 ---
 
-💡 **I’m constantly learning and expanding my skillset** to bring creative and efficient solutions to life.  
-📫 **Reach out** if you’d like to collaborate on any projects or have any exciting opportunities!
+# 💫 About Me:
+🔭 Currently mapping out my journey to become a Big Data Engineer.<br>👯 Excited to collaborate on projects involving data management, cleaning, and pipeline development.<br>🤝 Open to mentorship and opportunities that will help me grow in the Big Data field.<br>🌱 Actively expanding my knowledge in Data Science and Engineering to build a strong technical foundation.<br>⚡ Fun fact: I see data not just as numbers, but as stories waiting to be discovered.
 
-### 🌐 Connect with Me
-- Facebook: [Julia Rodrigo](https://www.facebook.com/JuliaRodrigo)
-- Email: [engr.julia.rt@gmail.com](mailto:engr.julia.rt@gmail.com)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Julia Rodrigo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crese.lia) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crese.lia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engr.julia.rt@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=engr-julia&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=engr-julia&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-julia&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=engr-julia&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=engr-julia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=engr-julia&icon=6&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
