@@ -65,24 +65,43 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
 
 ## 🌐 Connect with Me  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JuliaRodrigo)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crese.lia)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crese.lia)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engr.julia.rt@gmail.com)  
+<div align="center">
 
+<a href="https://facebook.com/JuliaRodrigo">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/crese.lia">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://tiktok.com/@crese.lia">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
+</a>
+<a href="mailto:engr.julia.rt@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
 ## 💻 Tech Stack  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)  
+<div align="center">
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black" alt="Cisco"/>
+
+</div>
 
 ---
 
-![snake gif](https://github.com/engr-julia/Engr-Julia/blob/output/github-snake.svg?color_snake=ff69b4&color_dots=00ffff)
+<div align="center">
+
+<img src="https://github.com/engr-julia/Engr-Julia/blob/output/github-snake.svg?color_snake=ff69b4&color_dots=00ffff" alt="snake gif"/>
+
+</div>
 
 
 ---
