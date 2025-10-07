@@ -82,7 +82,7 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/engr-julia/Engr-Julia/blob/output/github-snake-dark.svg)
 
 ---
 
