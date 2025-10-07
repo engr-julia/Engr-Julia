@@ -81,13 +81,7 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)  
 
 ---
-## My Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engr-julia/Engr-Julia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engr-julia/Engr-Julia/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/engr-julia/Engr-Julia/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 ## 📊 GitHub Stats  
