@@ -61,7 +61,7 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
   [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942)
 
 - **Introduction to Data Science (IBM)**
-  [View Certificate](https://
+  [View Certificate]([https://](https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg)
 
 ---
 
