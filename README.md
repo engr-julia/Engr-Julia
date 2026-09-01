@@ -89,7 +89,6 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
     </tr>
   </tbody>
 </table>
----
 
 ## 🌐 Connect with Me  
 
