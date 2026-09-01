@@ -58,7 +58,10 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
   [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE)  
 
 - **Oracle Cloud Infrastructure 2024 AI Foundations Associate**  
-  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942)  
+  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942)
+
+- **Introduction to Data Science (IBM)**
+  [View Certificate](https://
 
 ---
 
