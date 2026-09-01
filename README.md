@@ -45,26 +45,51 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
 - Communication & Presentation  
 
 ---
+### 📜 My Data Certifications' Road Map
 
-
-## 📜 Certifications  
-- **SQL and Relational Databases 101 (IBM)**  
-  [View Certificate](https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc)  
-
-- **Oracle Cloud Infrastructure 2024 Certified Foundations Associate**  
-  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E5771843277A4CDC454053833BF7DB91936AEBF)  
-
-- **Oracle Cloud Infrastructure 2024 Data Foundations Associate**  
-  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE)  
-
-- **Oracle Cloud Infrastructure 2024 AI Foundations Associate**  
-  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942)
-
-- **Introduction to Data Science (IBM)**
-  [View Certificate]([https://](https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg)
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="55%"><font size="2">Certification</font></th>
+      <th align="center" width="15%"><font size="2">Issuer</font></th>
+      <th align="center" width="10%"><font size="2">Date</font></th>
+      <th align="center" width="20%"><font size="2">Credential</font></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><font size="2"><b>OCI 2024 AI Foundations Associate</b></font></td>
+      <td align="center"><font size="2">Oracle</font></td>
+      <td align="center"><font size="2">2024</font></td>
+      <td align="center"><font size="2"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942">Verify Credential</a></font></td>
+    </tr>
+    <tr>
+      <td><font size="2"><b>OCI 2024 Data Foundations Associate</b></font></td>
+      <td align="center"><font size="2">Oracle</font></td>
+      <td align="center"><font size="2">2024</font></td>
+      <td align="center"><font size="2"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE">Verify Credential</a></font></td>
+    </tr>
+    <tr>
+      <td><font size="2"><b>OCI 2024 Certified Foundations Associate</b></font></td>
+      <td align="center"><font size="2">Oracle</font></td>
+      <td align="center"><font size="2">2024</font></td>
+      <td align="center"><font size="2"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E5771843277A4CDC454053833BF7DB91936AEBF">Verify Credential</a></font></td>
+    </tr>
+    <tr>
+      <td><font size="2"><b>SQL and Relational Databases 101</b></font></td>
+      <td align="center"><font size="2">IBM</font></td>
+      <td align="center"><font size="2">2024</font></td>
+      <td align="center"><font size="2"><a href="https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc">Verify Credential</a></font></td>
+    </tr>
+    <tr>
+      <td><font size="2"><b>Introduction to Data Science</b></font></td>
+      <td align="center"><font size="2">IBM</font></td>
+      <td align="center"><font size="2">2026</font></td>
+      <td align="center"><font size="2"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg">Verify Credential</a></font></td>
+    </tr>
+  </tbody>
+</table>
 ---
-
 
 ## 🌐 Connect with Me  
 
