@@ -45,7 +45,7 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
 - Communication & Presentation  
 
 ---
-### 📜 My Data Certifications' Road Map
+## 📜 My Data Certifications' Road Map
 
 <table width="100%">
   <thead>
