@@ -1,0 +1,36 @@
+# Save as .github/workflows/pulse.yml in your profile repo
+# (the repo named exactly the same as your GitHub username)
+name: Update coding pulse
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours; the animation itself never stops,
+                            # this just refreshes which days count as "active"
+  workflow_dispatch: {}
+
+jobs:
+  update-pulse:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate pulse SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATH: heartbeat.svg
+        run: python scripts/generate_pulse.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add heartbeat.svg
+          git diff --staged --quiet || git commit -m "chore: refresh coding pulse"
+          git push
