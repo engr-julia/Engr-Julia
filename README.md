@@ -185,11 +185,9 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 
 ---
 
-<div align="center">
-
- <img src="https://raw.githubusercontent.com/engr-julia/engr-julia/main/heartbeat.svg" width="900"/>
-
-</div>
+<p align="center">
+  <img src="heartbeat.svg?raw=true" alt="Coding Pulse" width="100%" />
+</p>
 
 
 ---
