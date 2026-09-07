@@ -87,6 +87,12 @@ Currently pursuing my degree with a focus on **computer science fundamentals, pr
       <td align="center"><font size="2">2026</font></td>
       <td align="center"><font size="2"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg">Verify Credential</a></font></td>
     </tr>
+    <tr>
+      <td><font size="2"><b>Getting Started in Google Analytics</b></font></td>
+      <td align="center"><font size="2">Coursera</font></td>
+      <td align="center"><font size="2">2026</font></td>
+      <td align="center"><font size="2"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg">Verify Credential</a></font></td>
+    </tr>
   </tbody>
 </table>
 
