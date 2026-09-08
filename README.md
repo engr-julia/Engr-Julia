@@ -2,7 +2,7 @@
   <img src="assets/hero-pink.svg" alt="engr-julia hero visual" />
 </p>
 
-## About 
+### About 
 
 I’m a **Computer Science student** passionate about **data engineering, data science, and problem-solving**.  
 My goal is to build strong foundations in **data management, pipelines, and cloud technologies** as I work toward becoming a **Big Data Engineer**. 
@@ -16,10 +16,10 @@ My goal is to build strong foundations in **data management, pipelines, and clou
 - 🌱 Currently learning **Data Science & Engineering concepts**
 - ⚡ Fun fact: I believe data isn't just numbers — it's **stories waiting to be discovered**
 - 👥 **9** followers · **5** following
-  
+
 <br>
 
-## 🎓 Education
+### 🎓 Education
 
 **Bachelor of Science in Computer Science**
 *New Era University*
@@ -29,7 +29,7 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 
 <br>
 
-## 🛠 Skillset
+### 🛠 Skillset
 
 **Core Strengths**
 
@@ -37,71 +37,69 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 
 <br>
 
----
-  
 
-
-![Welcome to my journey!](https://github.com/engr-julia/engr-julia/raw/main/photo_6147724065197113938_y.jpg)
 
 ---
-## 📜 My Data Certifications' Road Map
+### 📜 My Data Certifications' Road Map
 
-<br>
+<p align="center">
+  <img src="assets/welcome-dark.gif" alt="Welcome to my journey" />
+</p>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="55%"><font size="2">Certification</font></th>
-      <th align="center" width="15%"><font size="2">Issuer</font></th>
-      <th align="center" width="10%"><font size="2">Date</font></th>
-      <th align="center" width="20%"><font size="2">Credential</font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><font size="2"><b>OCI 2024 AI Foundations Associate</b></font></td>
-      <td align="center"><font size="2">Oracle</font></td>
-      <td align="center"><font size="2">2024</font></td>
-      <td align="center"><font size="2"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942">Verify Credential</a></font></td>
-    </tr>
-    <tr>
-      <td><font size="2"><b>OCI 2024 Data Foundations Associate</b></font></td>
-      <td align="center"><font size="2">Oracle</font></td>
-      <td align="center"><font size="2">2024</font></td>
-      <td align="center"><font size="2"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE">Verify Credential</a></font></td>
-    </tr>
-    <tr>
-      <td><font size="2"><b>OCI 2024 Certified Foundations Associate</b></font></td>
-      <td align="center"><font size="2">Oracle</font></td>
-      <td align="center"><font size="2">2024</font></td>
-      <td align="center"><font size="2"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E5771843277A4CDC454053833BF7DB91936AEBF">Verify Credential</a></font></td>
-    </tr>
-    <tr>
-      <td><font size="2"><b>SQL and Relational Databases 101</b></font></td>
-      <td align="center"><font size="2">IBM</font></td>
-      <td align="center"><font size="2">2024</font></td>
-      <td align="center"><font size="2"><a href="https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc">Verify Credential</a></font></td>
-    </tr>
-    <tr>
-      <td><font size="2"><b>Introduction to Data Science</b></font></td>
-      <td align="center"><font size="2">IBM</font></td>
-      <td align="center"><font size="2">2026</font></td>
-      <td align="center"><font size="2"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg">Verify Credential</a></font></td>
-    </tr>
-    <tr>
-      <td><font size="2"><b>Getting Started in Google Analytics</b></font></td>
-      <td align="center"><font size="2">Coursera</font></td>
-      <td align="center"><font size="2">2026</font></td>
-      <td align="center"><font size="2"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/COURSERA_GOOGLE%20ANALYTICS.pdf">Verify Credential</a></font></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="left" width="50%">Certification</th>
+        <th align="center" width="20%">Issuer</th>
+        <th align="center" width="10%">Date</th>
+        <th align="center" width="20%">Credential</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>OCI 2024 AI Foundations Associate</b></td>
+        <td align="center">Oracle</td>
+        <td align="center">2024</td>
+        <td align="center"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=49CBA67A962309CC3E6AAA483B73864D47619BA224B6EEDD3E9FECF49D3B7942">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>OCI 2024 Data Foundations Associate</b></td>
+        <td align="center">Oracle</td>
+        <td align="center">2024</td>
+        <td align="center"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E577184CE6D3E094E0A145CFAAA5049D5A820AE">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>OCI 2024 Certified Foundations Associate</b></td>
+        <td align="center">Oracle</td>
+        <td align="center">2024</td>
+        <td align="center"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=246808BA7BFB8CB524F0F4062E5771843277A4CDC454053833BF7DB91936AEBF">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>SQL and Relational Databases 101</b></td>
+        <td align="center">IBM</td>
+        <td align="center">2024</td>
+        <td align="center"><a href="https://courses.cognitiveclass.ai/certificates/8534fe56c2024b459015134d9ebb1dbc">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>Introduction to Data Science</b></td>
+        <td align="center">IBM</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>Getting Started in Google Analytics</b></td>
+        <td align="center">Coursera</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/COURSERA_GOOGLE%20ANALYTICS.pdf">Verify Credential</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 **Languages**
 <div align="center">
@@ -201,7 +199,7 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 ---
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=engr-julia&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
@@ -215,7 +213,7 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 
 ---
 
-## 👤 GitHub Profile Overview
+### 👤 GitHub Profile Overview
 
 <div align="center">
 
@@ -226,7 +224,7 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 </div>
 
 ---
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 <div align="center">
 
 | <a href="https://facebook.com/JuliaRodrigo" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/></a> | <a href="https://instagram.com/crese.lia" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/></a> | <a href="https://tiktok.com/@crese.lia" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/000000" width="40" height="40" alt="TikTok"/></a> | <a href="mailto:engr.julia.rt@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" alt="Email"/></a> |
