@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="scripts/hero-pink.svg" alt="engr-julia hero visual" />
+  <img src="assets/hero-pink.svg" alt="engr-julia hero visual" />
 </p>
 
 ## About 
