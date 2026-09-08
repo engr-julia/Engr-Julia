@@ -1,29 +1,31 @@
-# 👋 Hi, I'm Julia Tamayo Rodrigo!  
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=engr-julia&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187305823%3Fu%3Db5fd20eab0be7fce888d998e454907649ea15b1a%26v%3D4" alt="engr-julia hero visual" />
+</p>
 
-![Welcome to my journey!](https://github.com/engr-julia/engr-julia/raw/main/photo_6147724065197113938_y.jpg)
+## About 
 
 I’m a **Computer Science student** passionate about **data engineering, data science, and problem-solving**.  
-My goal is to build strong foundations in **data management, pipelines, and cloud technologies** as I work toward becoming a **Big Data Engineer**.  
+My goal is to build strong foundations in **data management, pipelines, and cloud technologies** as I work toward becoming a **Big Data Engineer**. 
 
 <br>
 
----
-
-## 💫 About Me
-
+- 📍 Based in **Philippines**
 - 🔭 Mapping out my journey to become a **Big Data Engineer**
 - 👯 Excited to collaborate on **data management, cleaning, and pipeline projects**
 - 🤝 Open to mentorship and opportunities in the **Big Data field**
 - 🌱 Currently learning **Data Science & Engineering concepts**
 - ⚡ Fun fact: I believe data isn't just numbers — it's **stories waiting to be discovered**
-<br>
+- 👥 **9** followers · **5** following
   
+<br>
+
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**
 *New Era University*
 
 Currently pursuing my degree with a focus on computer science fundamentals, programming, and data systems.
+
 
 <br>
 
@@ -34,6 +36,12 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 `Problem-Solving` `Team Collaboration` `Communication & Presentation` `Data Analysis & Visualization`
 
 <br>
+
+---
+  
+
+
+![Welcome to my journey!](https://github.com/engr-julia/engr-julia/raw/main/photo_6147724065197113938_y.jpg)
 
 ---
 ## 📜 My Data Certifications' Road Map
@@ -207,8 +215,6 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 
 ---
 
-## 🏆 GitHub Profile Overview
-
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/engr-julia?style=for-the-badge&color=ff69b4&logoColor=white)
@@ -226,3 +232,4 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 | [Julia Rodrigo](https://facebook.com/JuliaRodrigo) | [crese.lia](https://instagram.com/crese.lia) | [crese.lia](https://tiktok.com/@crese.lia) | [engr.julia.rt@gmail.com](mailto:engr.julia.rt@gmail.com) |
 
 </div>
+
