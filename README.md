@@ -4,42 +4,6 @@
 
 ![julia terminal](./julia_terminal.svg)
 
-### About 
-
-I’m a **Computer Science student** passionate about **data engineering, data science, and problem-solving**.  
-My goal is to build strong foundations in **data management, pipelines, and cloud technologies** as I work toward becoming a **Big Data Engineer**. 
-
-<br>
-
-- 📍 Based in **Philippines**
-- 🔭 Mapping out my journey to become a **Big Data Engineer**
-- 👯 Excited to collaborate on **data management, cleaning, and pipeline projects**
-- 🤝 Open to mentorship and opportunities in the **Big Data field**
-- 🌱 Currently learning **Data Science & Engineering concepts**
-- ⚡ Fun fact: I believe data isn't just numbers — it's **stories waiting to be discovered**
-- 👥 **9** followers · **5** following
-
-<br>
-
-### 🎓 Education
-
-**Bachelor of Science in Computer Science**
-*New Era University*
-
-Currently pursuing my degree with a focus on computer science fundamentals, programming, and data systems.
-
-
-<br>
-
-### 🛠 Skillset
-
-**Core Strengths**
-
-`Problem-Solving` `Team Collaboration` `Communication & Presentation` `Data Analysis & Visualization`
-
-<br>
-
-
 
 ---
 ### 📜 My Data Certifications' Road Map
