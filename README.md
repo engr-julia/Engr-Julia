@@ -85,13 +85,13 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
         <td><b>Introduction to Data Science</b></td>
         <td align="center">IBM</td>
         <td align="center">2026</td>
-        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/IBM%20Data%20Science.jpg">Verify Credential</a></td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/IBM%20DS0101EN%20Certificate%20_%20Cognitive%20Class.pdf">Verify Credential</a></td>
       </tr>
       <tr>
         <td><b>Getting Started in Google Analytics</b></td>
         <td align="center">Coursera</td>
         <td align="center">2026</td>
-        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/COURSERA_GOOGLE%20ANALYTICS.pdf">Verify Credential</a></td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/COURSERA_GOOGLE%20ANALYTICS.pdf">Verify Credential</a></td>
       </tr>
     </tbody>
   </table>
