@@ -2,6 +2,8 @@
   <img src="assets/hero-pink.svg" alt="engr-julia hero visual" />
 </p>
 
+![julia terminal](./julia_terminal.svg)
+
 ### About 
 
 I’m a **Computer Science student** passionate about **data engineering, data science, and problem-solving**.  
