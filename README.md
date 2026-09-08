@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=engr-julia&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187305823%3Fu%3Db5fd20eab0be7fce888d998e454907649ea15b1a%26v%3D4" alt="engr-julia hero visual" />
+  <img src="scripts/hero-pink.svg" alt="engr-julia hero visual" />
 </p>
 
 ## About 
@@ -214,6 +214,8 @@ Currently pursuing my degree with a focus on computer science fundamentals, prog
 
 
 ---
+
+## 👤 GitHub Profile Overview
 
 <div align="center">
 
