@@ -59,6 +59,12 @@
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/COURSERA_GOOGLE%20ANALYTICS.pdf">Verify Credential</a></td>
       </tr>
+      <tr>
+        <td><b>Data Analysis with Python</b></td>
+        <td align="center">freeCodeCamp</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/Data Analysis with Python.jpg">Verify Credential</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
