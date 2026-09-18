@@ -65,6 +65,12 @@
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/Data Analysis with Python.jpg">Verify Credential</a></td>
       </tr>
+      <tr>
+        <td><b>Introduction to Relational Databases and Management Systems</b></td>
+        <td align="center">Coursera</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/Data Analysis with Python.jpg">Verify Credential</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
