@@ -169,12 +169,13 @@
 
 ---
 
+
 <p align="center">
-  <img src="heartbeat.svg?raw=true" alt="Coding Pulse" width="100%" />
+  <img src="heartbeat.svg" alt="Coding Pulse" width="100%" />
 </p>
 
-
 ---
+
 
 
 ### 📊 GitHub Stats
