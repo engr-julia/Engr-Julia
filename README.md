@@ -8,6 +8,8 @@
 ---
 ### 📜 My Data Certifications' Road Map
 
+### 📜 My Data Certifications' Road Map
+
 <p align="center">
   <img src="assets/welcome-dark.gif" alt="Welcome to my journey" />
 </p>
@@ -70,6 +72,30 @@
         <td align="center">Coursera</td>
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/Intro%20to%20RDBMS.pdf">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>Associate Data Engineer</b></td>
+        <td align="center">Datcamp</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/DEA0010305713074.pdf">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>Data Governance</b></td>
+        <td align="center">Datcamp</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/DG0023060998727.pdf">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>Data Literacy</b></td>
+        <td align="center">Datcamp</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/DL0035757574930.pdf">Verify Credential</a></td>
+      </tr>
+      <tr>
+        <td><b>Python Data Associate</b></td>
+        <td align="center">Datcamp</td>
+        <td align="center">2026</td>
+        <td align="center"><a href="https://github.com/engr-julia/Engr-Julia/blob/main/certs/PDA0012574364724.pdf">Verify Credential</a></td>
       </tr>
     </tbody>
   </table>
