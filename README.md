@@ -6,7 +6,6 @@
 
 
 ---
-### 📜 My Data Certifications' Road Map
 
 ### 📜 My Data Certifications' Road Map
 
